@@ -5,7 +5,7 @@ import images from '../../constants/images';
 import './Header.css';
 
 const Header = () => (
-  <div>
+  <div className='app__header app__wrapper'>
     Header
   </div>
 );
